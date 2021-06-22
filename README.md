@@ -1,16 +1,18 @@
-### Hi there 👋
+<img align="right" height="200" src="https://media.giphy.com/media/ciqpFeTIjGqBhl6rn9/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif"/>
 
-<!--
-**chrisemke/chrisemke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+Hi, I'm Christian 👨‍💻.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@@I'm a PHP developer at IXCSoft@@
++ Living in Santa Catarina, Brazil 🇧🇷.
+- 20 years old
+! Speaker, community manager and shitposter
+# ❤ Programming, Linux, open source, free software
+```
+<code><a href="https://www.instagram.com/semkechris/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
+  <a href="https://discord.gg/Y4waMFYjaY" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/2111/2111370.svg"></a>
+  <a href="https://www.linkedin.com/in/christian-semke/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
+  <a href="https://telegram.me/Krisque" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/906/906377.svg"></a>
+  <a href="https://gitlab.com/Krisque" target="_blank"><img height="30" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg"></a>
+</code>
