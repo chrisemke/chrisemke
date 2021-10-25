@@ -1,4 +1,4 @@
-<img align="right" height="200" src="https://media.giphy.com/media/ciqpFeTIjGqBhl6rn9/giphy.gif"/>
+<!-- <img align="right" height="200" src="https://media.giphy.com/media/ciqpFeTIjGqBhl6rn9/giphy.gif"/>
 <img align="left" height="200" src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif"/>
 
 ```diff
@@ -17,7 +17,7 @@ Hi, I'm Christian 👨‍💻.
   <a href="https://gitlab.com/Krisque" target="_blank"><img height="35" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg"></a>
 </code>
 
-##
+## -->
 
 <div align="center">
   <a href="https://github.com/chrisemke">
