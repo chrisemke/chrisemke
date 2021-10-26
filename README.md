@@ -1,5 +1,5 @@
-<img align="right" height="200" src="https://media.giphy.com/media/ciqpFeTIjGqBhl6rn9/giphy.gif"/>
-<img align="left" height="189" src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif"/>
+<img align="right" height="240" src="https://media.giphy.com/media/ciqpFeTIjGqBhl6rn9/giphy.gif"/>
+<img align="left" height="240" src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif"/>
 
 ```diff
 Hi, I'm Christian 👨‍💻.
@@ -10,11 +10,11 @@ Hi, I'm Christian 👨‍💻.
 ! Speaker, community manager and shitposter
 # ❤ Programming, Linux, open source, free software
 ```
-<code><a href="https://www.instagram.com/semkechris/" target="_blank"><img height="35" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
-  <a href="https://discord.gg/Y4waMFYjaY" target="_blank"><img height="35" src="https://image.flaticon.com/icons/svg/2111/2111370.svg"></a>
-  <a href="https://www.linkedin.com/in/christian-semke/" target="_blank"><img height="35" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
-  <a href="https://telegram.me/Krisque" target="_blank"><img height="35" src="https://image.flaticon.com/icons/svg/906/906377.svg"></a>
-  <a href="https://gitlab.com/Krisque" target="_blank"><img height="35" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg"></a>
+<code><a href="https://www.instagram.com/semkechris/" target="_blank"><img height="40" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a> 
+  <a href="https://discord.gg/Y4waMFYjaY" target="_blank"><img height="40" src="https://image.flaticon.com/icons/svg/2111/2111370.svg"></a>
+  <a href="https://www.linkedin.com/in/christian-semke/" target="_blank"><img height="40" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a>
+  <a href="https://telegram.me/Krisque" target="_blank"><img height="40" src="https://image.flaticon.com/icons/svg/906/906377.svg"></a>
+  <a href="https://gitlab.com/Krisque" target="_blank"><img height="40" src="https://about.gitlab.com/images/press/logo/svg/gitlab-icon-rgb.svg"></a>
 </code>
 
 ##
