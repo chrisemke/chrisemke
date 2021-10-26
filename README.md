@@ -1,5 +1,5 @@
-<img align="right" height="240" src="https://media.giphy.com/media/ciqpFeTIjGqBhl6rn9/giphy.gif"/>
-<img align="left" height="240" src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif"/>
+<img align="right" height="230" src="https://media.giphy.com/media/ciqpFeTIjGqBhl6rn9/giphy.gif"/>
+<img align="left" height="230" src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif"/>
 
 ```diff
 Hi, I'm Christian 👨‍💻.
