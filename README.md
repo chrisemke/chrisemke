@@ -9,11 +9,11 @@
 ```diff
 Hi, I'm Christian 👨‍💻.
 
-@@I'm a PHP developer at IXCSoft@@
+@@I'm a Python developer@@
 + Living in Santa Catarina, Brazil 🇧🇷.
-- 20 years old
+- 21 years old
 ! Speaker, community manager and shitposter
-# ❤ Programming, Linux, open source, free software
+# ❤ Programming, Linux, free software, open source
 ```
 
 
