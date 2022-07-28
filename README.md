@@ -9,7 +9,7 @@
 ```diff
 Hi, I'm Christian 👨‍💻.
 
-@@I'm a Python developer@@
+@@ I'm a Python developer @@
 + Living in Santa Catarina, Brazil 🇧🇷.
 - 21 years old
 ! Speaker, community manager and shitposter
@@ -38,4 +38,8 @@ Hi, I'm Christian 👨‍💻.
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisemke&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  
+##
+
+<div align="center">
+  <a href="https://my.fsf.org/join?referrer=5827449" target="_blank"><img height="30" src="https://static.fsf.org/nosvn/associate/crm/5827449.png"></a>
+</div>
