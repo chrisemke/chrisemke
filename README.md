@@ -12,11 +12,11 @@ Hi, Krisque Here! 👨‍💻
 @@ I'm a Python developer @@
 + Living in Santa Catarina, Brazil 🇧🇷.
 - Speaker, community manager and shitposter
-! marxist-leninist-maoist
+! Love music
 # ❤ Linux, free software, open source
 ```
 
-![github-communist](https://i.imgur.com/fR9z9x4.jpeg)
+![github-social](https://i.imgur.com/fR9z9x4.jpeg)
 
 <!-- Social networks -->
 | [![https://www.instagram.com/semkechris/](https://img.shields.io/badge/semkechris-101?style=for-the-badge&logo=instagram&logoColor=ae27ff)](https://www.instagram.com/semkechris/)<br/>[![https://twitter.com/Chrisemke1](https://img.shields.io/badge/semkechris-101?style=for-the-badge&logo=twitter&logoColor=ae27ff)](https://twitter.com/Chrisemke1)<br/>[![https://www.linkedin.com/in/christian-semke/](https://img.shields.io/badge/semkechris-101?style=for-the-badge&logo=linkedin&logoColor=ae27ff)](https://www.linkedin.com/in/christian-semke/)<br/>[![https://telegram.me/Krisque](https://img.shields.io/badge/semkechris-101?style=for-the-badge&logo=telegram&logoColor=ae27ff)](https://telegram.me/Krisque)| ![](https://github-readme-stats.vercel.app/api?username=chrisemke&show_icons=true&theme=dracula&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisemke&layout=compact&langs_count=7&theme=dracula) |
