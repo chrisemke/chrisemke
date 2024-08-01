@@ -9,8 +9,8 @@ Hi, Krisque Here! 👨‍💻
 <!-- Short message -->
 ```diff
 @@ I'm a Python developer @@
-+ Living in Santa Catarina, Brazil 🇧🇷.
-- Speaker, community manager
+- Living in Santa Catarina, Brazil 🇧🇷.
++ Speaker, community manager
 ! Love music and reading
 # ❤ Linux, free software, open source
 ```
